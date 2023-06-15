@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Cormorant+Garamond:ital,wght@1,700&family=Jura:wght@300&family=Yanone+Kaffeesatz&display=swap');
+body{
+	background-color: blue;
+}
+p{
+	font-size: 50px;
+	color: yellow;
+}
+.ex1{
+	font-family: "Gill Sans", sans-serif;
+	font-weight: 700;
+}
+.ex2{
+	font-family: monospace;
+	font-style: italic;
+}
+.ex3{
+	font-family: 'Comforter Brush', cursive;
+	text-transform: capitalize;
+	letter-spacing: 25px;
+
+}
+.ex4{
+	font-family: 'Cormorant Garamond', serif;
+	text-transform: lowercase;
+	
+}
+.ex5{font-family: 'Jura', sans-serif;
+	text-transform: uppercase;
+	
+}
+.ex6{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	
+}
+.ex7{
+	text-decoration: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: white;
+	text-underline-position: under;
+
+}
+.ex8{
+	text-decoration: underline;
+	text-decoration-color: green;
+	text-underline-position: under;
+}
+.ex9{
+	text-shadow:4px 4px 5px black;
+
+}
+.ex10{
+	text-shadow:4px 4px red, 6px 6px green;
+	font-weight: 750;
+
+}
+.ex11{
+	text-shadow:0px 0px 15px white;
+
+}
+.ex12{
+	font-size: 2em;
+	font-weight: 750;
+	color: purple;
+	text-shadow:4px 4px red, 6px 6px green;
+
+}
+.ex13{
+	font: 80px 'Comforter Brush', cursive;
+}

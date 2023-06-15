@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comforter+Brush&family=Cormorant+Garamond:ital,wght@1,700&family=Jura:wght@300&family=Yanone+Kaffeesatz&display=swap');
+p{
+	font-size: 50px;
+	border: solid 30px;
+	width: 50%;
+	text-align: center;
+	border-image: linear-gradient(blue,yellow) 30;
+	color: purple;
+}
+table{
+	border: double 2px SandyBrown;
+	width: 50%;
+}
+th,td{
+	border: solid 1px aqua;
+	text-align: center;
+	width: 25%;
+	height: 1cm;
+	font-size: 25px;
+}
+tr:hover{
+	background-color: lightblue;
+}
+td:hover{
+	text-transform: uppercase;
+	font-size: 2em;
+	color: red;
+	background-image: url(https://i.gifer.com/YTcn.gif);
+}
+tr:nth-child(odd){
+background-color: lightcyan;
+}
+tr:nth-child(even){
+background-color: darkblue;
+}
+caption{
+	font-size: 50px;
+	font-family: 'Bebas Neue', sans-serif;
+	color: blue;
+}

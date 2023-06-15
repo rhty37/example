@@ -1,0 +1,37 @@
+body{
+	background-image: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif);
+	background-size: 250px;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+}
+p{
+	font-size: 0.7in;
+	color: orange;
+	background-image: url(https://img.freepik.com/premium-photo/natural-marble-pattern-background_1258-22160.jpg?w=2000);
+	background-size: cover;
+
+}
+.bgimage{
+	width: 400px;
+	height: 250px;
+
+	background-image: url(https://kpi.ua/files/styles/story/public/images/1125-7.jpg?itok=aPjwbLnB);
+	background-size: cover;
+	border-radius: 20%;
+	margin-lef t: 30px;
+	border: ridge 10px black;
+}
+.img1{
+	width: 400px;
+	margin-top: 20px;
+	border-radius: 20%;
+	box-shadow: 10px 10px 30px black;
+	border: solid 10px purple;
+}
+.bggif{
+	width: 500px;
+	height: 500px;
+	background-image: linear-gradient(rgba(0, 0, 255, 0.5),rgba(255, 255, 0, 0.5)), url(img/gip.gif);
+
+}
